@@ -90,11 +90,25 @@ main {
 
 }
 .one{
-  background-color: #f9e4e9;
+  background-color: #f7cbde;
 }
 .two{
-  background-color: #d6fdff;
+  background-color: #c8f9fb;
 }
 .three{
-  background-color: #eafbd8;
+  background-color: #dbf9b9;
+}
+
+.service{
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f1f0;
+
+}
+.service-items{
+  padding: 50px ;
+  text-align: center;
+  font-size:18px ;
 }
