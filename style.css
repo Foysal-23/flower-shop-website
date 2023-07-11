@@ -146,3 +146,45 @@ span{
   width: 250px;
   padding: 10px;
 }
+.submit-section{
+  margin-top: 100px;
+  width: 1080px;
+  height: 350px;
+  background-image: url(/Rectangle\ 9.png);
+  background-repeat: no-repeat;
+  background-size: 1440px;
+  align-items: center;
+  text-align: center;
+padding-top:80px ;
+}
+
+
+.btn-email{
+  margin-right:5px;
+  margin-top: 20px;
+  width: 450px;
+  padding: 25px;
+  border-radius: 5px;
+  border: none;
+}
+
+
+
+
+.footer-section{
+  width: 100%;
+  color: #ffffff;
+  background-color: #272727;
+ align-items: center;
+ text-align: center;
+ padding: 50px;
+ margin-top: 70px;
+ 
+}
+.footer-title{
+  font-size: 35px;
+}
+.footer-text{
+  padding: 10px;
+  font-size: 15px;
+}
