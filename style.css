@@ -7,6 +7,46 @@ body {
   color: #E55473;
 }
 
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 150px;
+  
+}
+.nav-title {
+  color: #181818;
+  font-size: 45px;
+  font-weight: 800;
+}
+
+
+nav > ul {
+  display: flex;
+  align-items: center;
+  font-weight: 800;
+}
+
+nav li {
+  list-style: none;
+  margin-right:50px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #474747;
+}
+
+
+
+
+
+
+
+
+
+
+
 .btn-primary {
   border-radius: 5px;
   background-color: #E55473;
@@ -179,6 +219,7 @@ padding-top:80px ;
  text-align: center;
  padding: 50px;
  margin-top: 70px;
+ padding-bottom: 100px ;
  
 }
 .footer-title{
@@ -187,4 +228,9 @@ padding-top:80px ;
 .footer-text{
   padding: 10px;
   font-size: 15px;
+}
+
+.media-icons{
+  width:25px;
+  padding: 10px;
 }
