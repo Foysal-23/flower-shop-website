@@ -135,3 +135,14 @@ main {
 span{
   color: #E55473;
 }
+.Instagram-title{
+  margin-top: 70px;
+  padding-top: 30px;
+}
+.instagram-image{
+  margin-top: 35px;
+}
+.inst-images{
+  width: 250px;
+  padding: 10px;
+}
