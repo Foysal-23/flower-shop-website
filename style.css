@@ -72,6 +72,7 @@ main {
 }
 
 .flower-container {
+  padding-top: 35px;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -79,8 +80,9 @@ main {
 }
 
 .flower-image {
-  width: 200px;
-  height: 270px;
+  padding-top: 50px;
+  width: 220px;
+  height: 300px;
   padding: 50px;
   border-top-left-radius: 50%;
   border-top-right-radius: 50%;
