@@ -95,9 +95,9 @@ main {
 
 }
 
-.flower-desc{
-font-weight: 800;
-text-decoration: underline;
+.flower-desc {
+  font-weight: 800;
+  text-decoration: underline;
 }
 
 .section-description {
@@ -153,7 +153,7 @@ text-decoration: underline;
 }
 
 .offer {
-  
+
   background-color: #f9edf0;
   margin-top: 50px;
   display: flex;
@@ -192,7 +192,7 @@ span {
 }
 
 .submit-section {
- margin-left: 10px;
+  margin-left: 10px;
   margin-top: 100px;
   width: 1100px;
   height: 449px;
@@ -212,7 +212,7 @@ span {
   padding: 25px;
   border-radius: 5px;
   border: none;
-  
+
 }
 
 .footer-section {
